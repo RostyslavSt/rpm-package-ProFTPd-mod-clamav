@@ -1,0 +1,14 @@
+.//usr/sbin/proftpd
+.//usr/sbin/ftpshut
+.//usr/libexec/proftpd/mod_ldap.so
+.//usr/libexec/proftpd/mod_sql.so
+.//usr/libexec/proftpd/mod_sql_mysql.so
+.//usr/libexec/proftpd/mod_sql_postgres.so
+.//usr/libexec/proftpd/mod_quotatab.so
+.//usr/libexec/proftpd/mod_quotatab_file.so
+.//usr/libexec/proftpd/mod_quotatab_ldap.so
+.//usr/libexec/proftpd/mod_quotatab_sql.so
+.//usr/bin/ftpcount
+.//usr/bin/ftpdctl
+.//usr/bin/ftptop
+.//usr/bin/ftpwho
